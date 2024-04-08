@@ -42,8 +42,7 @@ def gcd():
 ```
 
 ## Output:
-![Screenshot 2024-03-16 094203](https://github.com/Ibrahimovic07/GCD-of-two-numbers/assets/109091628/4bb93289-1ec8-40c2-ab27-d03a7fca0461)
-
+![alt text](<Screenshot 2024-04-09 041404.png>)
 
 
 
